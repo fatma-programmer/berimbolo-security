@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  .nav-link {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  
